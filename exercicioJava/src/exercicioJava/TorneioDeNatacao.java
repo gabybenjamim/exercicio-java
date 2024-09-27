@@ -1,9 +1,16 @@
+
 package exercicioJava;
+import java.util.Scanner;
+
 
 public class TorneioDeNatacao {
 	public static void main(String [] args) {
-		String nome = "João";
-		int idade = 19;
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Digite o seu nome: ");
+		String nome = input.next();
+		System.out.println("Digite a sua idade: ");
+		int idade = input.nextInt();
 		if (idade <= 10) {
 			System.out.println(nome + " participará da categoria Infantil");
 		} else if (idade >= 11 && idade <= 15) {
