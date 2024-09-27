@@ -4,7 +4,7 @@ public class AlistamentoMilitar {
 
 		public static void main(String[] args) {
 		char sexo = 'M';
-		int idade = 20 ;
+		int idade = 18 ;
 		
 		if ((sexo == 'M' || sexo == 'F') && idade < 18) {
 			System.out.println("Alistamento não permitido");

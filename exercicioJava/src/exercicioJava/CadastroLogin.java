@@ -9,7 +9,7 @@ public class CadastroLogin {
 		if (nome.equals("") || nome.equalsIgnoreCase ("admin") || nome.equalsIgnoreCase ("administrador")) {
 			System.out.println("Usuário inválido");
 
-		}else {
+		} else {
 			System.out.println(nome+" foi cadastrado com sucesso");
 
 		}
