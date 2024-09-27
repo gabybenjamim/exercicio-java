@@ -1,0 +1,19 @@
+package exercicioJava;
+
+public class AlistamentoMilitar {
+
+		public static void main(String[] args) {
+		char sexo = 'M';
+		int idade = 20 ;
+		
+		if ((sexo == 'M' || sexo == 'F') && idade < 18) {
+			System.out.println("Alistamento não permitido");
+		} else if (sexo == 'M' && idade >= 18) {
+			System.out.println("Alistamento obrigátorio");
+		} else if (sexo == 'F' && idade >= 18) {
+			System.out.println("Deseja se alistar?");
+		}
+		
+	}
+
+}
