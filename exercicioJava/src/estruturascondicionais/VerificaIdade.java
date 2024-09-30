@@ -1,4 +1,4 @@
-package exercicioJava;
+package estruturascondicionais;
 
 public class VerificaIdade {
 	public static void main(String [] args) {

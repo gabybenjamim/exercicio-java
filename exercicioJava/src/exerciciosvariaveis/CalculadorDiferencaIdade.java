@@ -1,4 +1,4 @@
-package exercicioJava;
+package exerciciosvariaveis;
 
 public class CalculadorDiferencaIdade {
 	public static void main(String [] args) {

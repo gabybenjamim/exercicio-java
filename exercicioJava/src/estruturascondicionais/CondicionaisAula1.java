@@ -1,4 +1,4 @@
-package exercicioJava;
+package estruturascondicionais;
 
 public class CondicionaisAula1 {
 	public static void main(String [] args) {

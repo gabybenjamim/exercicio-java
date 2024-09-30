@@ -1,4 +1,4 @@
-package exercicioJava;
+package exerciciosvariaveis;
 
 public class CalcularPorcentagem {
 	public static void main(String [] args) {

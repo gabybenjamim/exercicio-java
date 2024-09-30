@@ -1,4 +1,4 @@
-package exercicioJava;
+package estruturascondicionais;
 
 public class ImpostoDeRenda {
 	public static void main(String [] args ) {

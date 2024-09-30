@@ -1,4 +1,4 @@
-package exercicioJava;
+package estruturascondicionais;
 /*
  Dado um determinado salario 
  se o salario for maior que 4500 imprima 30% do valor

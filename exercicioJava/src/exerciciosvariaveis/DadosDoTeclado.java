@@ -1,4 +1,4 @@
-package exercicioJava;
+package exerciciosvariaveis;
 import java.util.Scanner;
 
 public class DadosDoTeclado {

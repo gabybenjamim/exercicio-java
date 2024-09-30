@@ -1,4 +1,4 @@
-package exercicioJava;
+package estruturascondicionais;
 
 public class DiasDaSemana {
 	public static void main(String[] args) {

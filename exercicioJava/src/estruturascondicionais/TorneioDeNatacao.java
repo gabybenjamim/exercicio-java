@@ -1,5 +1,5 @@
 
-package exercicioJava;
+package estruturascondicionais;
 import java.util.Scanner;
 
 
