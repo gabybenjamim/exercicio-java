@@ -12,6 +12,7 @@ public class WhileExercicioImpar {
 			if (i % 2 != 0) {
 				System.out.println("i = " +i);
 			}
+			
 			i = i +1;
 		}
 	}
