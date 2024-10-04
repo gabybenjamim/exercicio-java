@@ -2,7 +2,7 @@ package lacosderepeticao;
 
 import java.util.Scanner;
 
-public class WhileExercicioImpar {
+public class Aula02WhileImpar {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Digite o valor desejado");
