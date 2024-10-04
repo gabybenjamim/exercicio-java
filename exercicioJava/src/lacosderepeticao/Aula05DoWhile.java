@@ -19,7 +19,7 @@ public class Aula05DoWhile {
 			desejaContinuar = scanner.nextInt();
 		} while (desejaContinuar == 1);
 		
-		
+		System.out.print("FIM DO JOGO");
 	}
 
 }
